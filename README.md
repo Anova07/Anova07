@@ -37,9 +37,19 @@ Git • GitHub • AWS • GCP
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anova07&layout=compact&theme=tokyonight" />-->
 </p>
 
+<!--<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anova07&theme=tokyo-night&hide_border=true"/>
+</p>-->
 
+<!--<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anova07&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/Anova07">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Anova07.Anova07" />
+  </a>
+</p>-->
 
 <!--![Holopin badges](https://holopin.me/anova07)-->
 
