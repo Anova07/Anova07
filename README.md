@@ -36,7 +36,8 @@ Git • GitHub • AWS • GCP
   <img src="https://streak-stats.demolab.com?user=Anova07&theme=tokyonight&hide_border=true"/>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anova07&layout=compact&theme=tokyonight" />-->
 </p>
-
+<img src="https://raw.githubusercontent.com/Anova07/Anova07/output/github-snake.svg#gh-light-mode-only">
+<img src="https://raw.githubusercontent.com/Anova07/Anova07/output/github-snake-dark.svg#gh-dark-mode-only">
 <!--<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anova07&theme=tokyo-night&hide_border=true"/>
 </p>-->
